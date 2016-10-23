@@ -1,0 +1,10 @@
+<packages>
+	<package name="BusinessProcessSonification" version="1.0.3" os="all"
+		url="http://www.amerbauer.at/bps/package/BusinessProcessSonification-1.0.3-all.zip"
+		desc="https://informatik.univie.ac.at/wst/forschung/projekte/projekt/infproj/1063/" org="University of Vienna"
+		license="Apache 2.0" author="F. Amerbauer, T. Hildebrandt, S. Rinderle-Ma" auto="false" hasPlugins="true"
+		logo="http://www.promtools.org/prom6/packages66/prom_subtitle_hat_300.png">
+		<dependency name="Log" rev="latest" changing="true"
+			transitive="true" />
+	</package>
+</packages>

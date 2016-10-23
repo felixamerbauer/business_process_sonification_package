@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+    <repository url="http://www.promtools.org/prom6/packages66/ApacheUtils/packages.xml" />
+    <repository url="http://www.promtools.org/prom6/packages66/BasicUtils/packages.xml" />
+    <repository url="http://www.promtools.org/prom6/packages66/Saxon/packages.xml" />
+    <repository url="http://www.promtools.org/prom6/packages66/Widgets/packages.xml" />
+    <repository url="http://www.promtools.org/prom6/packages66/Log/packages.xml" />
+    <repository url="http://www.amerbauer.at/bps/package/packages.xml" />
+</packages>
+
