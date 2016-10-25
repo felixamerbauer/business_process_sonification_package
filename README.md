@@ -1,5 +1,7 @@
 # business_process_sonification_package
-ProM package builder for business process sonification project (https://github.com/felixamerbauer/business_process_sonification)
+ProM (http://www.promtools.org/) package builder for business process sonification project (https://github.com/felixamerbauer/business_process_sonification). This allows to run the multimodal tool combining sonification and visualization as ProM plugin adding this capabilities to your local ProM installation.
+
+For more details and **instructions how to use the package/plugin** see also the **project homepage** (http://cs.univie.ac.at/wst/forschung/projekte/projekt/infproj/1063/)
 
 ## Authors
 * Faculty of Computer Science University of Vienna, Austria
