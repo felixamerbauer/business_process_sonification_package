@@ -5,6 +5,6 @@
     <repository url="http://www.promtools.org/prom6/packages66/Saxon/packages.xml" />
     <repository url="http://www.promtools.org/prom6/packages66/Widgets/packages.xml" />
     <repository url="http://www.promtools.org/prom6/packages66/Log/packages.xml" />
-    <repository url="http://www.amerbauer.at/bps/package/packages.xml" />
+    <repository url="https://raw.githubusercontent.com/felixamerbauer/business_process_sonification_package/master/package/packages.xml" />
 </packages>
 
