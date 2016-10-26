@@ -34,7 +34,8 @@ For more details and **instructions how to use the package/plugin** see also the
 	* go to http://www.schristiancollins.com/generaluser.php and download the latest version of the soundfont in the *Current* section of the page (https://dl.dropboxusercontent.com/u/8126161/GeneralUser_GS_1.47.zip)
 	* extract zip and copy `GeneralUser GS v1.47.sf2` (only this file is required) to the folder containing the standalone JAR file or to the ProM installation folder (the one containing e.g. `ProM66.bat`/`ProM66.sh`)
 
-## Compile Classpath
+## ProM Package Build
+### Compile Classpath
 * axis.jar
 * bsh-2.0b4.jar
 * business-process-sonification-core.jar
@@ -90,7 +91,7 @@ For more details and **instructions how to use the package/plugin** see also the
 * xpp3-1.1.4c.jar
 * xstream-1.3.1.jar
 
-## Run Classpath
+### Run Classpath
 * business-process-sonification-core.jar
 * commons-io-2.4.jar
 * jfugue-5.0.7.jar
@@ -105,5 +106,5 @@ For more details and **instructions how to use the package/plugin** see also the
 * slf4j-api-1.7.21.jar
 * slf4j-log4j12-1.7.21.jar
 
-## Build Instructions
+### Build Instructions
 **TODO**
