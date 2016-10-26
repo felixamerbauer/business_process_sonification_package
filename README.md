@@ -20,7 +20,7 @@ For more details see also the **project homepage** (http://cs.univie.ac.at/wst/f
 	* download http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 * download and extract http://www.promtools.org/prom6/downloads/prom-6.6-all-platforms.tar.gz
 * edit `ProM.ini`
-	* replace `PACKAGE_URL = http://www.promtools.org/prom6/packages66/packages.xml` with `PACKAGE_URL = https://raw.githubusercontent.com/felixamerbauer/business_process_sonification_package/master/packages.xm`
+	* replace `PACKAGE_URL = http://www.promtools.org/prom6/packages66/packages.xml` with `PACKAGE_URL = https://raw.githubusercontent.com/felixamerbauer/business_process_sonification_package/master/packages.xml`
 	* replace `PROM_USER_FOLDER =`with `PROM_USER_FOLDER = prom_bps` so that the new ProM installation doesn't interfere with other ProM 6.6 installations on the same machine
 * run ProM package manager (`ProMPM66.bat`/`ProMPM66.sh`) and install package *BusinessProcessSonification*
 * run `ProM66.bat`/`ProM66.sh`
