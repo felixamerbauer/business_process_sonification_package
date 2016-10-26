@@ -12,7 +12,7 @@ For more details and **instructions how to use the package/plugin** see also the
 ## Standalone-App
 * JRE 1.7+ is required
 	* Download http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-* download https://raw.githubusercontent.com/felixamerbauer/business_process_sonification/sonification_1.0.3.jar
+* download https://github.com/felixamerbauer/business_process_sonification/blob/master/sonification_1.0.3.jar?raw=true
 * run on the command line `java -jar sonification_1.0.3.jar`
 
 ## ProM-Package
