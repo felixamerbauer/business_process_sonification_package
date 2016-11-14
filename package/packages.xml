@@ -1,6 +1,6 @@
 <packages>
-	<package name="BusinessProcessSonification" version="1.0.3" os="all"
-		url="https://raw.githubusercontent.com/felixamerbauer/business_process_sonification_package/master/package/BusinessProcessSonification-1.0.3-all.zip"
+	<package name="BusinessProcessSonification" version="1.0.4" os="all"
+		url="https://raw.githubusercontent.com/felixamerbauer/business_process_sonification_package/master/package/BusinessProcessSonification-1.0.4-all.zip"
 		desc="https://informatik.univie.ac.at/wst/forschung/projekte/projekt/infproj/1063/" org="University of Vienna"
 		license="Apache 2.0" author="F. Amerbauer, T. Hildebrandt, S. Rinderle-Ma" auto="false" hasPlugins="true"
 		logo="http://www.promtools.org/prom6/packages66/prom_subtitle_hat_300.png">
