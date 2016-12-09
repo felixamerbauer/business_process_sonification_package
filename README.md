@@ -10,13 +10,13 @@ For more details see also the **project homepage** (http://cs.univie.ac.at/wst/f
   * Stefanie Rinderle-Ma
 
 ## Standalone-App
-* JRE 1.7+ is required
+* JRE 1.8+ is required
 	* Download http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 * download https://github.com/felixamerbauer/business_process_sonification/blob/master/sonification_1.0.4.jar?raw=true
 * run on the command line `java -jar sonification_1.0.4.jar`
 
 ## ProM-Package
-* JRE 1.7+ is required otherwise download PromM with bundled JRE
+* JRE 1.8+ is required
 	* download http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 * download and extract http://www.promtools.org/prom6/downloads/prom-6.6-all-platforms.tar.gz
 * edit `ProM.ini`
